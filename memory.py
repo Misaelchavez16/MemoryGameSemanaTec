@@ -1,12 +1,9 @@
-"""Memory, puzzle game of number pairs.
+"""
+Juego: Pacman
+Programador 1: Misael Chavez Ramos
+Programador 2: Rodrigo García Estrada
 
-Exercises:
-
-1. Count and print how many taps occur.
-2. Decrease the number of tiles to a 4x4 grid.
-3. Detect when all tiles are revealed.
-4. Center single-digit tile.
-5. Use letters instead of tiles.
+Fecha: 11 / mayo / 2022
 """
 
 from random import *
